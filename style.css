@@ -5,7 +5,7 @@
 }
 .navbar{
     margin: 10px;
-    height: 5vh;
+    height: 7vh;
     border: 2px solid black;
     display:flex;
     flex-direction: row;
@@ -17,11 +17,13 @@
  
 }
 .videoPlayer{
-    margin-left: 6em;
+    margin-left: 4em;
     display:flex;
     background-color: red;
+   
     
 }
+
 .sidebar{
     display:flex;
     flex-direction: column;
