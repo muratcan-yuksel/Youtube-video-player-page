@@ -16,3 +16,7 @@
 #navBarOne{
  border: 2px dashed blue;
 }
+.videoPlayer{
+    margin-left: 5em;
+    display:flex;
+}
