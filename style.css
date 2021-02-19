@@ -19,4 +19,17 @@
 .videoPlayer{
     margin-left: 6em;
     display:flex;
+    background-color: red;
+    
+}
+.sidebar{
+    display:flex;
+    flex-direction: column;
+    background-color: blue;
+    margin-left: 2em;
+    margin-right: 6em;
+    width: 40vw;
+   
+    background: blue;
+    
 }
