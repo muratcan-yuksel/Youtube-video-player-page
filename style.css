@@ -1,0 +1,18 @@
+*{
+    box-sizin: border-box;
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    margin: 10px;
+    height: 5vh;
+    border: 2px solid black;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color:indianred
+    
+}
+#navBarOne{
+ border: 2px dashed blue;
+}
