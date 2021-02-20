@@ -5,5 +5,7 @@ I had great troubles trying to stack the video images with captions next to them
 It's not responsive, so whenever the viewport gets smaller, the sidebar collapses on the comments  <br>
 I don't know how to fix it yet<br>
 The page can be vieweb from here : https://muratcan-yuksel.github.io/Youtube-video-player-page/  <br>
-I hope it works on other devices also
+I hope it works on other devices also <br>
+it should look like this: <br>
+<img src="pics/pageview.png">
 
