@@ -27,7 +27,7 @@
     bcs in this way, in the mobile version the margins still exist
     they should't be */
     width: 100px;
-    background: red; 
+    background: greenyellow; 
     flex: 1 0 auto;
     display:flex;
     flex-direction: column;
