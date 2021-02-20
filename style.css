@@ -16,6 +16,30 @@
 #navBarOne{
  
 }
+.main{
+    display:flex;
+    flex-wrap: wrap;
+}
+.sidebar{
+    margin-left: 2em;
+    margin-right: 6em;
+    /* for the margins I need to give a media query
+    bcs in this way, in the mobile version the margins still exist
+    they should't be */
+    width: 100px;
+    background: red; 
+    flex: 1 0 auto;
+}
+.videoPlayer{
+    margin-left: 4em;
+    background: blue;
+    /* I need to limit the height in some way
+    otherwise the video section will follow the sider along the way */
+    height: 500px;
+ 
+}
+
+/*
 .videoPlayer{
     margin-left: 4em;
     display:flex;
@@ -34,4 +58,4 @@
    
     background: blue;
     
-}
+}*/
