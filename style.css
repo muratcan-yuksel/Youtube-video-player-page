@@ -22,12 +22,12 @@
 }
 .sidebar{
     margin-left: 2em;
-    margin-right: 6em;
+    /*margin-right: 6em;*/
     /* for the margins I need to give a media query
     bcs in this way, in the mobile version the margins still exist
     they should't be */
     width: 100px;
-    background: greenyellow; 
+    
     flex: 1 0 auto;
     display:flex;
     flex-direction: column;
@@ -72,6 +72,10 @@
 .addComment{
    margin-top:1em;
    margin-left: 1em;
+}
+.cancelComment{
+    display: flex;
+    justify-content: flex-end;
 }
 
 
