@@ -38,6 +38,44 @@
     height: 500px;
  
 }
+#up-next {
+    flex: 0 0 auto;
+    width: 500px;
+  }
+  
+  #up-next-header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
+  #up-next-title {
+    font-size: 18px;
+  }
+  
+  #autoplay {
+    color: #aaaaaa;
+  }
+  
+  .up-next-item {
+    display: flex;
+  }
+  
+  .up-next-item-thumb {
+    width: 152.4px;
+    height: 117.6px;
+    margin-right: 10px;
+  }
+  
+  .up-next-item-title {
+    font-weight: 700;
+    margin-bottom: 5px;
+  }
+  
+  .up-next-item-info {
+    font-size: 14px;
+    color: #aaaaaa;
+  }
 
 /*
 .videoPlayer{
