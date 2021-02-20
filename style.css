@@ -31,6 +31,8 @@
     flex: 1 0 auto;
     display:flex;
     flex-direction: column;
+    flex: 0 0 auto;
+    width: 500px;
 }
 .videoPlayer{
     margin-left: 4em;
