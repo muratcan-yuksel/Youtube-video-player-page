@@ -42,6 +42,9 @@
     height: 500px;
  
 }
+#videoViews{
+    /*color:gray;*/
+}
 
 .up-next {
     flex: 0 0 auto;
