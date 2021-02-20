@@ -49,7 +49,6 @@
   }
   
   .up-next-item-thumb {
-  
     margin-right: 10px;
   }
   
@@ -59,27 +58,7 @@
   }
   
   .up-next-item-info {
-    font-size: 14px;
-    color: #aaaaaa;
+    font-size: 0.9em;
+    
   }
 
-/*
-.videoPlayer{
-    margin-left: 4em;
-    display:flex;
-    background-color: red;
-   
-    
-}
-
-.sidebar{
-    display:flex;
-    flex-direction: column;
-    background-color: blue;
-    margin-left: 2em;
-    margin-right: 6em;
-    width: 40vw;
-   
-    background: blue;
-    
-}*/
