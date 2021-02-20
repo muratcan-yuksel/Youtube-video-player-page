@@ -40,6 +40,7 @@
     /* I need to limit the height in some way
     otherwise the video section will follow the sider along the way */
     height: 500px;
+   
  
 }
 .information{
@@ -51,7 +52,7 @@
 #videoViews{
     margin-bottom:2em;
 }
-#poster{
+.user{
     margin-right:1em;
 }
 #subscribe{
@@ -64,6 +65,16 @@
 #Comments228{
     margin-right: 3em;
 }
+.publicComment{
+    display:flex;
+    margin-top:1em;
+}
+.addComment{
+   margin-top:1em;
+   margin-left: 1em;
+}
+
+
 
 .up-next {
     flex: 0 0 auto;
