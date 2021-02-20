@@ -40,3 +40,28 @@
     height: 500px;
  
 }
+
+.up-next {
+    flex: 0 0 auto;
+    width: 500px;
+  }
+ 
+  
+  .up-next-item {
+    display: flex;
+  }
+  
+  .up-next-item-thumb {
+    margin-right: 10px;
+  }
+  
+  .up-next-item-title {
+    font-weight: 700;
+    margin-bottom: 5px;
+  }
+  
+  .up-next-item-info {
+    font-size: 0.9em;
+    
+  }
+
