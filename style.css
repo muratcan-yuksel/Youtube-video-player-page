@@ -42,8 +42,14 @@
     height: 500px;
  
 }
-#videoViews{
-    /*color:gray;*/
+.information{
+    display:flex;
+}
+#poster{
+    margin-right:1em;
+}
+#subscribe{
+    margin-left: 22em;
 }
 
 .up-next {
