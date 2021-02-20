@@ -42,9 +42,6 @@
     flex: 0 0 auto;
     width: 500px;
   }
-  
-
-  
  
   
   .up-next-item {
@@ -52,8 +49,7 @@
   }
   
   .up-next-item-thumb {
-    width: 152.4px;
-    height: 117.6px;
+  
     margin-right: 10px;
   }
   
