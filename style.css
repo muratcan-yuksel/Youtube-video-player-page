@@ -38,24 +38,22 @@
     height: 500px;
  
 }
-#up-next {
+.up-next {
     flex: 0 0 auto;
     width: 500px;
   }
   
-  #up-next-header {
+  .up-next-header {
     display: flex;
     justify-content: space-between;
     margin-bottom: 20px;
   }
   
-  #up-next-title {
+  .up-next-title {
     font-size: 18px;
   }
   
-  #autoplay {
-    color: #aaaaaa;
-  }
+ 
   
   .up-next-item {
     display: flex;
