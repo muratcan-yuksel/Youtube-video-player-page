@@ -6,7 +6,6 @@
 .navbar{
     margin: 10px;
     height: 7vh;
-    border: 2px solid black;
     display:flex;
     flex-direction: row;
     
