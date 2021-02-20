@@ -78,6 +78,11 @@
     justify-content: flex-end;
 }
 
+.individualComment{
+    display:flex;
+    margin-top:1em;
+}
+
 
 
 .up-next {
