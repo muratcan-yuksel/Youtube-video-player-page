@@ -36,7 +36,7 @@
 }
 .videoPlayer{
     margin-left: 4em;
-    background: blue;
+    
     /* I need to limit the height in some way
     otherwise the video section will follow the sider along the way */
     height: 500px;
@@ -45,11 +45,24 @@
 .information{
     display:flex;
 }
+#title{
+    margin-bottom: 1em;
+}
+#videoViews{
+    margin-bottom:2em;
+}
 #poster{
     margin-right:1em;
 }
 #subscribe{
     margin-left: 22em;
+}
+.commentsCount{
+    display:flex;
+    margin-top:2em;
+}
+#Comments228{
+    margin-right: 3em;
 }
 
 .up-next {
